@@ -47,7 +47,8 @@ Math.sqrt(25) // 5
 
 양자 난수 생성기(Quantum Random Number Generator)가 그 대표적인 시도로 각광받고 있습니다.
 
-![양자 난수 생성기](https://pds.joins.com/news/component/newsis/201707/23/NISI20170721_0000021786_web.jpg)
+![양자 난수 생성기](https://user-images.githubusercontent.com/52960121/126057547-298f8236-5e5c-4357-aa82-885c79fba95d.jpg)
+
 
 > 양자난수생성기(Quantum Random Number Generator)는 양자의 특성을 이용해 예측이 불가능하고 패턴이 없는 '순수 난수(True Random Number)'를 지속적으로 만들어주는 장치다. 난수를 암호로 활용하면, 아무리 연산이 빠른 슈퍼컴퓨터라도 쉽게 암호를 풀어낼 수 없다. 해킹의 위험성이 현저히 낮아지는 것이다. 양자 난수의 뛰어난 보안성을 인지한 해외 각국들이 양자난수생성기를 개발하며 군사 등 특수 용도로 활용하고 있다. 
 
