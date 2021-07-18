@@ -1,7 +1,5 @@
 # 랜덤값 추출
 
-[돌아가기](/../javascript/)
-
 JavaScript에 내장된 [Math 객체](https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/Math)를 통해 무작위 값을 생성할 수 있습니다. 
 
 ## Math 객체란 무엇인가?
@@ -13,6 +11,12 @@ Math 객체는 수학적인 상수와 함수를 위한 속성과 메서드를 �
 ## Math 객체엔 어떤 속성/메서드가 있는가?
 
 Math 객체의 주요 속성/메서드는 다음과 같습니다.
+
+```javascript
+Math.max(53, 44, 20, 109) // 109
+Math.round(6.210491) // 6
+Math.sqrt(25) // 5
+```
 
 | 속성/메서드 | 설명 |
 | --- | --- |
@@ -29,12 +33,6 @@ Math 객체의 주요 속성/메서드는 다음과 같습니다.
 | Math.sqrt(x) | `x`의 제곱근 √x을 반환합니다. |
 | Math.random() | 0 이상 1 미만의 무작위 값을 가지는 소수를 반환합니다. |
 | Math.sign(x) | `x`의 부호를 반환합니다(1, -1, 0, -0, NaN). |
-
-```javascript
-Math.max(53, 44, 20, 109) // 109
-Math.round(6.210491) // 6
-Math.sqrt(25) // 5
-```
 
 ## 컴퓨터가 하는 랜덤값 추출은 어떤 원리이며, 어떤 한계점이 있는가?
 
