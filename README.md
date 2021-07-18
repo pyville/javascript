@@ -57,7 +57,7 @@
         </tr>
         <tr>
             <td style="text-align: center;"><a href="/object/math/README.md">랜덤값 추출</a><br>(Math 객체)</td>
-            <td style="text-align: left;">오늘의 운세 만들기<br>- 랜덤한 값을 생성하여 미리 저장해 둔 운세 중 하나를 표시</td>
+           <td style="text-align: left;"><a href="/object/math/">오늘의 운세 만들기</a><br>- 랜덤한 값을 생성하여 미리 저장해 둔 운세 중 하나를 표시</td>
         </tr>
         <tr>
             <td style="text-align: center;">날짜와 시간<br>(Date 객체)</td>
